@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CicdRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "jsconfig1.json C:\\Users\\Tymbark\\Desktop\\Test"
+    }
+  }
+} 
